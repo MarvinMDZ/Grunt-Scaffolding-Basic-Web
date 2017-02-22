@@ -26,7 +26,7 @@ exports.template = function(grunt, init, done) {
     props.devDependencies = {
       'grunt': '~0.4.5',
       'grunt-contrib-copy': '~1.0.0',
-      'grunt-contrib-cssmin': '~2.0.0',
+      'grunt-contrib-sass': '~0.4.0',
       'grunt-contrib-jshint': '~1.1.0',
       'grunt-contrib-uglify': '~2.1.0',
       'grunt-contrib-watch': '~1.0.0'

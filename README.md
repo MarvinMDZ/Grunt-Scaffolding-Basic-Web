@@ -1,5 +1,5 @@
 # Grunt-Scaffolding-Basic-Web
-Plantilla para crear una estructura básica HTML CSS y Javascript. Utiliza Uglify, Cssmin, JSHint, Copy y Watch.
+Plantilla para crear una estructura básica HTML CSS y Javascript. Utiliza Uglify, SASS, JSHint, Copy y Watch.
 
 
 Copy BasicWeb directoy into your library directory
